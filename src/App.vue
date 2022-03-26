@@ -1,5 +1,5 @@
 <template>
-  <FingerPrint msg="Unique device information"/>
+  <FingerPrint msg="Unique your device ids information"/>
 </template>
 
 <script>
