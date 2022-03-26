@@ -51,8 +51,8 @@ export default {
 
       return [
         "Device UUID: " + uuid,
-        "fingerprint-2: " + uuid2,
-        "fingerprint-3: " + uuid3,
+        "Fingerprint-2: " + uuid2,
+        "Fingerprint-3: " + uuid3,
       ];
     },
   },
