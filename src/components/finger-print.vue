@@ -50,7 +50,7 @@ export default {
       var uuid3 = du.hashInt(dua.join(":"));
 
       return [
-        "Device UUID: " + uuid,
+        "Your Device UUID: " + uuid,
         "Fingerprint-2: " + uuid2,
         "Fingerprint-3: " + uuid3,
       ];
